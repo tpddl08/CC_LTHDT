@@ -1,0 +1,6 @@
+﻿  NhomCC_SnakeGame.cpp
+C:\Users\TRAN PHUOC DAT\Documents\GitHub\CC_LTH-T\NhomCC_SnakeGame\NhomCC_SnakeGame\NhomCC_SnakeGame.cpp(338,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TRAN PHUOC DAT\Documents\GitHub\CC_LTH-T\NhomCC_SnakeGame\NhomCC_SnakeGame\NhomCC_SnakeGame.cpp(377,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TRAN PHUOC DAT\Documents\GitHub\CC_LTH-T\NhomCC_SnakeGame\NhomCC_SnakeGame\NhomCC_SnakeGame.cpp(391,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TRAN PHUOC DAT\Documents\GitHub\CC_LTH-T\NhomCC_SnakeGame\NhomCC_SnakeGame\NhomCC_SnakeGame.cpp(410,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  NhomCC_SnakeGame.vcxproj -> C:\Users\TRAN PHUOC DAT\Documents\GitHub\CC_LTH-T\NhomCC_SnakeGame\x64\Debug\NhomCC_SnakeGame.exe
